@@ -25,32 +25,32 @@ const nuevoModulo = 21 % 5 === 1 ;
 // Pista: "console.log()" NO fucionará.
 // No cambies los nombres de las funciones.
 
-function devolverString(str) {
+function devolverString(str) {"hola me llamo leandro" ;
   // "Return" la string provista: str
   // Tu código:
   
 }
 
-function suma(x, y) {
+function suma(x, y) { 5 + 6
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
   
 }
 
-function resta(x, y) {
+function resta(x, y) { 30 - 15
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
   
 }
 
-function multiplica(x, y) {
+function multiplica(x, y) {4 *  4
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
   
 }
 
-function divide(x, y) {
+function divide(x, y) { 45 / 5
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
   
